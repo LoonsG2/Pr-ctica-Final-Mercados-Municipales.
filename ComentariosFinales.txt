@@ -1,0 +1,5 @@
+Al final solo se hicieron algunos arreglos con el tipo de letra cambiando de aptos a calibri o de arial a calibri para intentar dar profesinalidad
+
+La estimacion de semanas que se hicieron en dos documentos estan basados en los porcentajes que se deberia tener para ese momento con las semanas ya finalizadas
+
+Los recursos se dividen en base a EDT y WBS para dar mas por jerquia dejando en lado un pequeño monto por reserva
